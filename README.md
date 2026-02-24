@@ -1,4 +1,4 @@
-# 📊 K-Nearest Neighbors (KNN) Machine Learning Project
+#  K-Nearest Neighbors (KNN) Machine Learning Project
 
 ## 🚀 Overview
 This project demonstrates the implementation of the **K-Nearest Neighbors (KNN)** algorithm for classification tasks using Python.
